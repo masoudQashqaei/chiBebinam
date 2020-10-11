@@ -1,5 +1,5 @@
 # chiBebinam
-an app that suggests 10 movies based on your top 3 genres using top 500 imdb movies 
+An App That Suggests 10 Movies Based On Your Top 3 Genres Using Top IMDB 500 movies 
 ![alt text](https://github.com/masoudQashqaei/chiBebinam/blob/master/1.png)
 ![alt text](https://github.com/masoudQashqaei/chiBebinam/blob/master/2.png)
 ![alt text](https://github.com/masoudQashqaei/chiBebinam/blob/master/3.png)
